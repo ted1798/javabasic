@@ -1,0 +1,11 @@
+ch1. 프로그램 설치
+- jdk 설치 : orcale 사이트
+- 환경변수 설정 : path
+- 명령 프롬포트 : cd(), cd java, javac HelloWorld.java, java HelloWorld
+- 이클립스 다운로드 및 압축 해제
+
+ch2. 변수와 상수
+
+숙제 
+- 프로그램 설치, Hello World 실행
+
